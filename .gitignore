@@ -2,3 +2,6 @@ tensorflow_env
 .vscode
 test
 tensorflow/dlaicourse
+tensorflow/tf_in_practice/horse-or-human
+*.tsv
+fluent-python
